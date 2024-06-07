@@ -6,7 +6,6 @@ int main()
     cout<<"bha";
     cout<<"Praneeth Reddy";
     cout<<"nf1";
-    int n=0;
     return 0;
 
 }
